@@ -66,9 +66,14 @@ A curated list of awesome Apache Spark packages and resources.
 
 ## MOOCS
 
-* [CS100 -Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x)
+* [CS100 - Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x)
 * [CS190 - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x)
 
 ## Workshops
 
 * [AMP Camp](http://ampcamp.berkeley.edu)
+
+## Projects Using Spark
+
+* [Oryx 2](https://github.com/OryxProject/oryx) - a [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
+* [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
