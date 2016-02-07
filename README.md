@@ -40,6 +40,9 @@ A curated list of awesome Apache Spark packages and resources.
 
 * [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer.
 * [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer.
+* [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer.
+* [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
+* [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 
 ## Bioinformatics
 
