@@ -14,11 +14,13 @@ A curated list of awesome Apache Spark packages and resources.
   - [GIS](#gis)
   - [Time series analytics](#time-series-analytics)
   - [Graph processing](#graph-processing)
+  - [Machine Learning Extension](#machine-learning-extension)
 
 - [Resources](#resources)
   - [Books](#books)
   - [MOOCS](#moocs)
   - [Workshops](#workshops)
+  - [Projects Using Spark](#projects-using-spark)
 
 
 ## Language bindings
@@ -50,27 +52,32 @@ A curated list of awesome Apache Spark packages and resources.
 
 ## GIS
 
-* [Magellan](https://github.com/harsha2010/magellan) - ???
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) - ???
+* [Magellan](https://github.com/harsha2010/magellan) - Geospatial Analytics Using Spark.
+* [GeoSpark](https://github.com/Sarwat/GeoSpark) - A Cluster Computing System for Processing. Large-Scale Spatial Data
 
 ## Time series analytics
 
-* [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - ???
+* [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - A Scala / Java / Python library for interacting with time series data on Apache Spark.
 
 ## Graph processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - graph analytics platform on top of Neo4j and GraphX.
 
+## Machine Learning Extension
+
+* [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - An Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf).
+* [spark_dbscan](https://github.com/alitouka/spark_dbscan) - Another Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [alitouka](https://github.com/alitouka).
 
 ## Books
 
-* [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
-* [Learning Spark, Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do)
+* [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/).
+* [Learning Spark, Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do).
+* [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do).
 
 ## MOOCS
 
-* [CS100 - Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x)
-* [CS190 - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x)
+* [CS100 - Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x).
+* [CS190 - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x).
 
 ## Workshops
 
