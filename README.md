@@ -67,6 +67,7 @@ A curated list of awesome Apache Spark packages and resources.
 
 * [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - An Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf).
 * [spark_dbscan](https://github.com/alitouka/spark_dbscan) - Another Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [alitouka](https://github.com/alitouka).
+* [Apache SystemML](https://systemml.apache.org/) - decalartive machine learning framework on top Spark 
 
 ## Books
 
