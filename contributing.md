@@ -2,7 +2,10 @@
 
 ## Adding an item to the list
 
-- Please check previous suggestions before creating a new PR.
+- Please check for previous suggestions before creating a new PR.
 - Submit only one link at the time.
-- New Links should be appended at the and of the relevant category.
+- Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
+- If you add a new section, please add it also the section title to the Table of Contents.
+- New Links should be appended at the end of the relevant section.
 - Make sure that the new entry doesn't contain trailing whitespace.
+- Don't mention `Spark` in the description as it is implied.
