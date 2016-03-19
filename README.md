@@ -69,6 +69,7 @@ A curated list of awesome Apache Spark packages and resources.
 * [spark_dbscan](https://github.com/alitouka/spark_dbscan) - Another Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [alitouka](https://github.com/alitouka).
 * [Apache SystemML](https://systemml.apache.org/) - declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) - linear algebra DSL and optimizer with R-like syntax.
+* [spark-sklearn](https://github.com/databricks/spark-sklearn) - scikit-learn integration with distributed model training.
 
 ## Books
 
