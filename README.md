@@ -62,6 +62,7 @@ A curated list of awesome Apache Spark packages and resources.
 ## Graph processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - graph analytics platform on top of Neo4j and GraphX.
+* [GraphFrames](https://github.com/graphframes/graphframes) - `DataFrame`-based graph API.
 
 ## Machine Learning Extension
 
