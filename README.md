@@ -26,7 +26,7 @@ A curated list of awesome Apache Spark packages and resources.
 ## Language bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL.
-* [SparkCLR](https://github.com/Microsoft/SparkCLR/) - C# bindings.
+* [Mobius](https://github.com/Microsoft/Mobius) - C# bindings.
 
 ## Notebooks and IDEs
 
