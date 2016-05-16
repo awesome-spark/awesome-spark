@@ -71,6 +71,7 @@ A curated list of awesome Apache Spark packages and resources.
 * [Apache SystemML](https://systemml.apache.org/) - declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) - linear algebra DSL and optimizer with R-like syntax.
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - scikit-learn integration with distributed model training.
+* [KeystoneML](http://keystone-ml.org/) - type safe machine learning pipelines with RDDs.
 
 ## Books
 
