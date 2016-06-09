@@ -34,7 +34,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Notebooks and IDEs
 
-* [Apache Zeppelin](https://zeppelin.incubator.apache.org/)
+* [Apache Zeppelin](https://zeppelin.incubator.apache.org/) - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
 * [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
 ### General Purpose Libraries
