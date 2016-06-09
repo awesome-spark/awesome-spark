@@ -49,7 +49,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer.
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
-* [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector
+* [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
 
 ### Bioinformatics
 
@@ -58,7 +58,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### GIS
 
 * [Magellan](https://github.com/harsha2010/magellan) - Geospatial Analytics Using Spark.
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) - A Cluster Computing System for Processing. Large-Scale Spatial Data
+* [GeoSpark](https://github.com/Sarwat/GeoSpark) - A Cluster Computing System for Processing. Large-Scale Spatial Data.
 
 ### Time Series Analytics
 
