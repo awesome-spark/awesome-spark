@@ -27,7 +27,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ## Packages
 
-### Language bindings
+### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL.
 * [Mobius](https://github.com/Microsoft/Mobius) - C# bindings.
@@ -37,7 +37,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/)
 * [Spark Notebook](https://github.com/andypetrella/spark-notebook)
 
-### General purpose libraries
+### General Purpose Libraries
 
 * [Succinct](http://succinct.cs.berkeley.edu/) - Support for efficient queries on compressed data.
 
@@ -60,11 +60,11 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Magellan](https://github.com/harsha2010/magellan) - Geospatial Analytics Using Spark.
 * [GeoSpark](https://github.com/Sarwat/GeoSpark) - A Cluster Computing System for Processing. Large-Scale Spatial Data
 
-### Time series analytics
+### Time Series Analytics
 
 * [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - A Scala / Java / Python library for interacting with time series data on Apache Spark.
 
-### Graph processing
+### Graph Processing
 
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - graph analytics platform on top of Neo4j and GraphX.
 * [GraphFrames](https://github.com/graphframes/graphframes) - `DataFrame`-based graph API.
