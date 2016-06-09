@@ -23,6 +23,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [MOOCS](#moocs)
   - [Workshops](#workshops)
   - [Projects Using Spark](#projects-using-spark)
+  - [Blogs](#blogs)
 
 
 ## Packages
@@ -99,6 +100,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Oryx 2](https://github.com/OryxProject/oryx) - a [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
+
+### Blogs
+
+[Spark Technology Center](http://spark.tc/blog/) - A great source of highly diverse posts related to Spark ecosystem. From practical advices to Spark commiter profiles.
 
 
 ## License
