@@ -2,6 +2,7 @@
 
 A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
+## Table of Contents
 
 - [Packages](#packages)
   - [Language bindings](#language-bindings)
