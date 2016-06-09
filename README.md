@@ -78,6 +78,11 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - scikit-learn integration with distributed model training.
 * [KeystoneML](http://keystone-ml.org/) - type safe machine learning pipelines with RDDs.
 
+### REST interfaces
+
+* [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
+* [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - A simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
+
 ## Resources
 
 ### Books
