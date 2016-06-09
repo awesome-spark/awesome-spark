@@ -2,7 +2,7 @@
 
 ---------------------------------------
 
-A curated list of awesome Apache Spark packages and resources.
+A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
 
 - [Packages](#packages)
