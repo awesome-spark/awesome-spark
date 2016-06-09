@@ -8,14 +8,14 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ## Table of Contents
 
 - [Packages](#packages)
-  - [Language bindings](#language-bindings)
+  - [Language Bindings](#language-bindings)
   - [Notebooks and IDEs](#notebooks-and-ides)
-  - [General purpose libraries](#general-purpose-libraries)
+  - [General Purpose Libraries](#general-purpose-libraries)
   - [SQL Data Sources](#sql-data-sources)
   - [Bioinformatics](#bioinformatics)
   - [GIS](#gis)
-  - [Time series analytics](#time-series-analytics)
-  - [Graph processing](#graph-processing)
+  - [Time Series Analytics](#time-series-analytics)
+  - [Graph Processing](#graph-processing)
   - [Machine Learning Extension](#machine-learning-extension)
 
 - [Resources](#resources)
