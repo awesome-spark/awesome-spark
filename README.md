@@ -1,7 +1,5 @@
 # Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
----------------------------------------
-
 A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
 
@@ -95,7 +93,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 
 
---------
+## License
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
