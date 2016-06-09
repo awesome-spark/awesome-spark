@@ -45,6 +45,7 @@ A curated list of awesome Apache Spark packages and resources.
 * [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer.
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
+* [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector
 
 ## Bioinformatics
 
