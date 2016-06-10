@@ -94,8 +94,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### MOOCS
 
-* [CS100 - Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x).
-* [CS190 - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x).
+* Archived
+
+  * [CS100 - Introduction to Big Data with Apache Spark](https://www.edx.org/course/introduction-big-data-apache-spark-uc-berkeleyx-cs100-1x).
+  * [CS190 - Scalable Machine Learning](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x).
 
 ### Workshops
 
