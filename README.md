@@ -108,7 +108,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Blogs
 
-[Spark Technology Center](http://spark.tc/blog/) - A great source of highly diverse posts related to Spark ecosystem. From practical advices to Spark commiter profiles.
+- [Spark Technology Center](http://spark.tc/blog/) - A great source of highly diverse posts related to Spark ecosystem. From practical advices to Spark commiter profiles.
 
 
 ## License
