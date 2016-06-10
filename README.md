@@ -54,12 +54,12 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Bioinformatics
 
-* [ADAM](https://github.com/bigdatagenomics/adam) - a set of tools designed to analyse genomics data.
+* [ADAM](https://github.com/bigdatagenomics/adam) - A set of tools designed to analyse genomics data.
 
 ### GIS
 
-* [Magellan](https://github.com/harsha2010/magellan) - Geospatial Analytics Using Spark.
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) - A Cluster Computing System for Processing. Large-Scale Spatial Data.
+* [Magellan](https://github.com/harsha2010/magellan) - Geospatial analytics using Spark.
+* [GeoSpark](https://github.com/Sarwat/GeoSpark) - A cluster computing system for processing large-scale spatial data.
 
 ### Time Series Analytics
 
@@ -67,17 +67,17 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Graph Processing
 
-* [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - graph analytics platform on top of Neo4j and GraphX.
-* [GraphFrames](https://github.com/graphframes/graphframes) - `DataFrame`-based graph API.
+* [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX.
+* [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API.
 
 ### Machine Learning Extension
 
 * [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - An Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf).
-* [Spark DBSCAN](https://github.com/alitouka/spark_dbscan) - Another Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [alitouka](https://github.com/alitouka).
-* [Apache SystemML](https://systemml.apache.org/) - declarative machine learning framework on top of Spark.
+* [Spark DBSCAN](https://github.com/alitouka/spark_dbscan) - Another implementation of the DBSCAN clustering algorithm by [alitouka](https://github.com/alitouka).
+* [Apache SystemML](https://systemml.apache.org/) - Declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) - linear algebra DSL and optimizer with R-like syntax.
-* [spark-sklearn](https://github.com/databricks/spark-sklearn) - scikit-learn integration with distributed model training.
-* [KeystoneML](http://keystone-ml.org/) - type safe machine learning pipelines with RDDs.
+* [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training.
+* [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 
 ### REST interfaces
 
@@ -103,7 +103,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Projects Using Spark
 
-* [Oryx 2](https://github.com/OryxProject/oryx) - a [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
+* [Oryx 2](https://github.com/OryxProject/oryx) - A [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 
 ### Blogs
