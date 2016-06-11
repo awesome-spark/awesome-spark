@@ -99,7 +99,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 ### Workshops
 
-* [AMP Camp](http://ampcamp.berkeley.edu)
+* [AMP Camp](http://ampcamp.berkeley.edu) - A periodical training event organized by the [UC Berkeley AMPLab](https://amplab.cs.berkeley.edu/). A source of useful exercise and recorded workshops covering different tools from the [Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/).
 
 ### Projects Using Spark
 
