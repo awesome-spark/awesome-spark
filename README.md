@@ -24,6 +24,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Workshops](#workshops)
   - [Projects Using Spark](#projects-using-spark)
   - [Blogs](#blogs)
+  - [Docker Images](#docker-images)
 
 
 ## Packages
@@ -109,6 +110,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Blogs
 
 - [Spark Technology Center](http://spark.tc/blog/) - A great source of highly diverse posts related to Spark ecosystem. From practical advices to Spark commiter profiles.
+
+### Docker Images
+
+- [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 
 
 ## License
