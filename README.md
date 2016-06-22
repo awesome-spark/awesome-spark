@@ -120,6 +120,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Docker Images
 
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
+- [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
 
 
 ## License
