@@ -17,6 +17,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Time Series Analytics](#time-series-analytics)
   - [Graph Processing](#graph-processing)
   - [Machine Learning Extension](#machine-learning-extension)
+  - [Utilities](#utilities)
 
 - [Resources](#resources)
   - [Books](#books)
@@ -84,6 +85,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - A simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
+
+### Utilities
+
+* [silex](https://github.com/willb/silex) - A bunch of tools varying from ML extensions to additional RDD methods.
 
 ## Resources
 
