@@ -105,6 +105,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Projects Using Spark
 
 * [Oryx 2](https://github.com/OryxProject/oryx) - A [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
+* [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 
 ### Blogs
