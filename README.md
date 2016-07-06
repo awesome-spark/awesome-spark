@@ -18,6 +18,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Graph Processing](#graph-processing)
   - [Machine Learning Extension](#machine-learning-extension)
   - [Utilities](#utilities)
+  - [Natural Language Processing](#natural-language-processing)
 
 - [Resources](#resources)
   - [Books](#books)
@@ -89,6 +90,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Utilities
 
 * [silex](https://github.com/willb/silex) - A bunch of tools varying from ML extensions to additional RDD methods.
+
+### Natural Language Processing
+
+* [spark-corenlp](https://github.com/databricks/spark-corenlp) - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
 ## Resources
 
