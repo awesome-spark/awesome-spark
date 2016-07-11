@@ -54,6 +54,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
+* [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.
 
 ### Bioinformatics
 
