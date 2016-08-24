@@ -116,6 +116,13 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [AMP Camp](http://ampcamp.berkeley.edu) - A periodical training event organized by the [UC Berkeley AMPLab](https://amplab.cs.berkeley.edu/). A source of useful exercise and recorded workshops covering different tools from the [Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/).
 
+### Workflow Orchestration
+* [Airflow](https://github.com/airbnb/airflow) - Airflow is a platform to programmatically author, schedule and monitor workflows
+* [Luigi](https://github.com/spotify/luigi) - Luigi is a Python package that helps you build complex pipelines of batch jobs
+* [Meson](http://techblog.netflix.com/2016/05/meson_31.html) (not yet OSS released) is a general purpose workflow orchestration and scheduling framework based on Mesos
+* [Mario](https://github.com/intentmedia/mario) - Similar to early Luigi in Scala (not currently active) 
+
+
 ### Projects Using Spark
 
 * [Oryx 2](https://github.com/OryxProject/oryx) - A [lambda architecture](http://lambda-architecture.net/) built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
