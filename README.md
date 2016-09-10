@@ -60,6 +60,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Bioinformatics
 
 * [ADAM](https://github.com/bigdatagenomics/adam) - A set of tools designed to analyse genomics data.
+* [Hail](https://github.com/hail-is/hail) - A genetic analysis framework.
 
 ### GIS
 
