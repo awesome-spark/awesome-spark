@@ -19,6 +19,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Machine Learning Extension](#machine-learning-extension)
   - [Utilities](#utilities)
   - [Natural Language Processing](#natural-language-processing)
+  - [Streaming](#streaming)
 
 - [Resources](#resources)
   - [Books](#books)
@@ -98,6 +99,11 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Natural Language Processing
 
 * [spark-corenlp](https://github.com/databricks/spark-corenlp) - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+
+### Streaming
+
+* [Apache Bahir](https://bahir.apache.org/) - A collection of the streaming connectors excluded from Spark 2.0 (Akka, MQTT, Twitter. ZeroMQ).
+
 
 ## Resources
 
