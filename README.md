@@ -17,6 +17,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Time Series Analytics](#time-series-analytics)
   - [Graph Processing](#graph-processing)
   - [Machine Learning Extension](#machine-learning-extension)
+  - [Middleware](#middleware)
   - [Utilities](#utilities)
   - [Natural Language Processing](#natural-language-processing)
   - [Streaming](#streaming)
@@ -87,7 +88,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training.
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 
-### REST interfaces
+### Middleware
 
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - A simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
