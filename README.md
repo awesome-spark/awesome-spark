@@ -91,6 +91,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Livy](https://github.com/cloudera/livy) - REST server with extensive language support (Python, R, Scala), ability to maintain interactive sessions and object sharing.
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - A simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
+* [Mist](https://github.com/Hydrospheredata/mist) - HTTP and MQTT API intended to expose Spark to exeternal services.
 
 ### Utilities
 
