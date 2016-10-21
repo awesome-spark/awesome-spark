@@ -29,6 +29,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Projects Using Spark](#projects-using-spark)
   - [Blogs](#blogs)
   - [Docker Images](#docker-images)
+  - [Miscellaneous](#miscellaneous)
 
 
 ## Packages
@@ -142,6 +143,8 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 - [jupyter/docker-stacks/pyspark-notebook](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) - PySpark with Jupyter Notebook and Mesos client.
 - [sequenceiq/docker-spark](https://github.com/sequenceiq/docker-spark) - Yarn images from [SequenceIQ](http://www.sequenceiq.com/).
+
+### Miscellaneous
 
 
 ## License
