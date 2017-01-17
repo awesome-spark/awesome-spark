@@ -100,6 +100,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Utilities
 
 * [silex](https://github.com/willb/silex) - A bunch of tools varying from ML extensions to additional RDD methods.
+* [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark.
 
 ### Natural Language Processing
 
