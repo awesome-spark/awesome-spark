@@ -114,6 +114,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Interfaces
 
 * [Apache Beam](https://beam.apache.org/) - An unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
+* [Blaze](https://github.com/blaze/blaze) - An interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`.
 
 ## Resources
 
