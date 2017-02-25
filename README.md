@@ -39,6 +39,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL.
 * [Mobius](https://github.com/Microsoft/Mobius) - C# bindings.
+* [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
 
 ### Notebooks and IDEs
 
