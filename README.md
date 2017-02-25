@@ -90,6 +90,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training.
 * [KeystoneML](http://keystone-ml.org/) - Type safe machine learning pipelines with RDDs.
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML.
+* [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras.
 
 ### Middleware
 
