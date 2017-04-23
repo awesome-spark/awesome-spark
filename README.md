@@ -169,7 +169,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
