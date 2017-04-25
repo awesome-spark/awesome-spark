@@ -82,6 +82,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX.
 * [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
+* [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.)
 
 ### Machine Learning Extension
 
