@@ -1,4 +1,4 @@
-[<img src="https://rawgit.com/awesome-spark/awesome-spark/logo-svg/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
+[<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
 
 # Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
