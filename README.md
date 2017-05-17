@@ -22,6 +22,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Natural Language Processing](#natural-language-processing)
   - [Streaming](#streaming)
   - [Interfaces](#interfaces)
+  - [Testing](#testing)
 
 - [Resources](#resources)
   - [Books](#books)
@@ -121,6 +122,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [Apache Beam](https://beam.apache.org/) - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
 * [Blaze](https://github.com/blaze/blaze) - Interface for querying larger than memory datasets using Pandas-like syntax. It supports both Spark `DataFrames` and `RDDs`.
+
+### Testing
+
+* [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes.
 
 ## Resources
 
