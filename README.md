@@ -1,4 +1,4 @@
-[<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/master/spark-logo-trademark.png" align="right">](https://spark.apache.org/)
+[<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
 
 # Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -25,6 +25,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 - [Resources](#resources)
   - [Books](#books)
+  - [Papers](#papers)
   - [MOOCS](#moocs)
   - [Workshops](#workshops)
   - [Projects Using Spark](#projects-using-spark)
@@ -81,11 +82,11 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Mazerunner](https://github.com/neo4j-contrib/neo4j-mazerunner) - Graph analytics platform on top of Neo4j and GraphX.
 * [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
+* [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
 
 ### Machine Learning Extension
 
-* [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf).
-* [Spark DBSCAN](https://github.com/alitouka/spark_dbscan) - Another implementation of the DBSCAN clustering algorithm by [alitouka](https://github.com/alitouka).
+* [dbscan-on-spark](https://github.com/irvingc/dbscan-on-spark) - An Implementation of the DBSCAN clustering algorithm on top of Apache Spark by [irvingc](https://github.com/irvingc) and based on the paper from He, Yaobin, et al. [MR-DBSCAN: a scalable MapReduce-based DBSCAN algorithm for heavily skewed data](https://www.researchgate.net/profile/Yaobin_He/publication/260523383_MR-DBSCAN_a_scalable_MapReduce-based_DBSCAN_algorithm_for_heavily_skewed_data/links/0046353a1763ee2bdf000000.pdf).
 * [Apache SystemML](https://systemml.apache.org/) - Declarative machine learning framework on top of Spark.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) - linear algebra DSL and optimizer with R-like syntax.
 * [spark-sklearn](https://github.com/databricks/spark-sklearn) - Scikit-learn integration with distributed model training.
@@ -93,6 +94,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [JPMML-Spark](https://github.com/jpmml/jpmml-spark) - PMML transformer library for Spark ML.
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras.
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for spark.ml and scikit-learn 
+* [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer.
 
 ### Middleware
 
@@ -105,6 +107,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 * [silex](https://github.com/willb/silex) - Collection of tools varying from ML extensions to additional RDD methods.
 * [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark.
+* [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark.
 
 ### Natural Language Processing
 
@@ -128,6 +131,11 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
 * [Spark Gotchas](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
 * [Spark in Action](https://www.manning.com/books/spark-in-action) - New book in the Manning's "in action" family with +400 pages. Starts gently, step-by-step and covers large number of topics. Free excerpt on how to [setup Eclipse for Spark application development](http://freecontent.manning.com/how-to-start-developing-spark-applications-in-eclipse/) and how to bootstrap a new application using the provided Maven Archetype. You can find the accompanying GitHub repo [here](https://github.com/spark-in-action/first-edition).
+
+### Papers
+
+* [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://people.csail.mit.edu/matei/papers/2012/nsdi_spark.pdf) - Paper introducing a core distributed memory abstraction.
+* [Spark SQL: Relational Data Processing in Spark](https://amplab.cs.berkeley.edu/wp-content/uploads/2015/03/SparkSQLSigmod2015.pdf) - Paper introducing relational underpinnings, code generation and Catalyst optimizer.
 
 ### MOOCS
 
@@ -163,7 +171,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
