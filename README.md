@@ -60,7 +60,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Spark CSV](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)).
 * [Spark Avro](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer.
 * [Spark XML](https://github.com/databricks/spark-xml) - XML parser and writer.
-* [Spark-Mongodb](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
+* [Spark-Mongodb](https://github.com/mongodb/mongo-spark) - MongoDB reader and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.
