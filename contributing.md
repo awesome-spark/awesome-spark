@@ -2,7 +2,7 @@
 
 ## Adding an item to the list
 
-- Please check for previous suggestions before creating a new PR.
+- Please check for previous suggestions and [removed projects](https://github.com/awesome-spark/awesome-spark/issues?q=is%3Aissue+is%3Aclosed+label%3Adeprecation) before creating a new PR. 
 - Submit only one link at the time.
 - Add the link: `* [project-name](http://example.com/) - A short description ends with a period.`
 - If you add a new section, please add it also the section title to the Table of Contents.
