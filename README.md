@@ -23,6 +23,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
   - [Streaming](#streaming)
   - [Interfaces](#interfaces)
   - [Testing](#testing)
+  - [Workflow Management](#workflow-management)
 
 - [Resources](#resources)
   - [Books](#books)
@@ -126,6 +127,10 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 ### Testing
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes.
+
+### Workflow Management
+
+* [Cromwell](https://github.com/broadinstitute/cromwell#spark-backend) - Workflow management system with [Spark backend](https://github.com/broadinstitute/cromwell#spark-backend).
 
 ## Resources
 
