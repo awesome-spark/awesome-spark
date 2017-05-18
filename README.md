@@ -97,6 +97,7 @@ A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras.
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer.
+* [dist-keras](https://github.com/cerndb/dist-keras) - Distributed Deep Learning with Apache Spark and Keras.
 
 ### Middleware
 
