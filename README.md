@@ -4,7 +4,9 @@
 
 A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
-_Apache Spark is an open-source cluster-computing framework. Originally developed at the [University of California](https://www.universityofcalifornia.edu/), [Berkeley's AMPLab](https://amplab.cs.berkeley.edu/), the Spark codebase was later donated to the [Apache Software Foundation](https://www.apache.org/), which has maintained it since. Spark provides an interface for programming entire clusters with implicit data parallelism and fault-tolerance_  (Wikipedia 2017). Users of Apache Spark may choose between different the Python,R, Scala and Java programming languages to interface with the Apache Spark APIs. 
+_Apache Spark is an open-source cluster-computing framework. Originally developed at the [University of California](https://www.universityofcalifornia.edu/), [Berkeley's AMPLab](https://amplab.cs.berkeley.edu/), the Spark codebase was later donated to the [Apache Software Foundation](https://www.apache.org/), which has maintained it since. Spark provides an interface for programming entire clusters with implicit data parallelism and fault-tolerance_  (Wikipedia 2017). 
+
+Users of Apache Spark may choose between different the Python, R, Scala and Java programming languages to interface with the Apache Spark APIs. 
 
 ## Contents
 
