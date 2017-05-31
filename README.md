@@ -131,6 +131,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Testing
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) - Collection of base test classes.
+* [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework.
 
 ### Workflow Management
 
