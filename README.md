@@ -108,6 +108,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
 * [Mist](https://github.com/Hydrospheredata/mist) - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services.
 * [Apache Toree](https://github.com/apache/incubator-toree) - IPython protocol based middleware for interactive applications.
+* [akka-lift-ml](https://github.com/innFactory/akka-lift-ml) - Microservice to encapsulate your spark clusters from your microservices environment with scala. 
 
 ### Utilities
 
