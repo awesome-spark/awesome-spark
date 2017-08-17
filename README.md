@@ -82,6 +82,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Time Series Analytics
 
 * [Spark-Timeseries](https://github.com/cloudera/spark-timeseries) - Scala / Java / Python library for interacting with time series data on Apache Spark.
+* [flint](https://github.com/twosigma/flint) - A time series library for Apache Spark.
 
 ### Graph Processing
 
