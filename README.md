@@ -46,6 +46,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Flambo](https://github.com/yieldbot/flambo) - Clojure DSL.
 * [Mobius](https://github.com/Microsoft/Mobius) - C# bindings.
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
+* [sparkle](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 
 ### Notebooks and IDEs
 
