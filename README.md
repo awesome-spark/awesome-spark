@@ -70,7 +70,6 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.
 * [OrientDB-Spark](http://orientdb.com/spark/) - Official OrientDB(Multi-Model Open Source NoSQL DBMS) connector.
 
-
 ### Bioinformatics
 
 * [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data.
