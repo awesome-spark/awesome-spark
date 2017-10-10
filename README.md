@@ -68,7 +68,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.
-* [OrientDB-Spark](http://orientdb.com/spark/) - Official OrientDB(Multi-Model Open Source NoSQL DBMS) connector.
+* [OrientDB-Spark](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector.
 
 ### Bioinformatics
 
