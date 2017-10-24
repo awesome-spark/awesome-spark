@@ -57,7 +57,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### General Purpose Libraries
 
 * [Succinct](http://succinct.cs.berkeley.edu/) - Support for efficient queries on compressed data.
-* [Sparkplug](http://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
+* [Sparkplug](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
 
 
 ### SQL Data Sources
