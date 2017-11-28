@@ -57,6 +57,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### General Purpose Libraries
 
 * [Succinct](http://succinct.cs.berkeley.edu/) - Support for efficient queries on compressed data.
+* [Optimus](https://github.com/ironmussa/Optimus) - Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. 
 
 
 ### SQL Data Sources
