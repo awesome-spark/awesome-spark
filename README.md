@@ -119,7 +119,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark.
 
 ### Natural Language Processing
-
+* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - High Performance NLP for Apache Spark.
 * [spark-corenlp](https://github.com/databricks/spark-corenlp) - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
 
 ### Streaming
