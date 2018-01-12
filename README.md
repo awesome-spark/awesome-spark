@@ -22,6 +22,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
   - [Machine Learning Extension](#machine-learning-extension)
   - [Middleware](#middleware)
   - [Utilities](#utilities)
+  - [Networking](#networking)
   - [Natural Language Processing](#natural-language-processing)
   - [Streaming](#streaming)
   - [Interfaces](#interfaces)
@@ -117,6 +118,9 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [silex](https://github.com/willb/silex) - Collection of tools varying from ML extensions to additional RDD methods.
 * [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark.
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark.
+
+### Networking
+* [NetLytics](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
 ### Natural Language Processing
 
