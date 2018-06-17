@@ -117,6 +117,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [silex](https://github.com/willb/silex) - Collection of tools varying from ML extensions to additional RDD methods.
 * [sparkly](https://github.com/Tubular/sparkly) - Helpers & syntactic sugar for PySpark.
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) - Static type annotations for PySpark.
+* [Flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Spark clusters on EC2.
 
 ### Natural Language Processing
 
