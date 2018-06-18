@@ -120,7 +120,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Natural Language Processing
 * [spark-corenlp](https://github.com/databricks/spark-corenlp) - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
-* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - High Performance NLP for Apache Spark.
+* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - Natural language understanding library. 
 
 ### Streaming
 
