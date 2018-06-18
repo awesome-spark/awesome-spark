@@ -19,6 +19,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
   - [GIS](#gis)
   - [Time Series Analytics](#time-series-analytics)
   - [Graph Processing](#graph-processing)
+  - [HBase Connectors](#hbase-Connectors)
   - [Machine Learning Extension](#machine-learning-extension)
   - [Middleware](#middleware)
   - [Utilities](#utilities)
@@ -91,6 +92,13 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [GraphFrames](https://github.com/graphframes/graphframes) - Data frame based graph API.
 * [neo4j-spark-connector](https://github.com/neo4j-contrib/neo4j-spark-connector) - Bolt protocol based, Neo4j Connector with RDD, DataFrame and GraphX / GraphFrames support.
 * [SparklingGraph](http://sparkling.ml) - Library extending GraphX features with multiple functionalities useful in graph analytics (measures, generators, link prediction etc.).
+
+### HBase Connectors
+
+* [shc](https://github.com/hortonworks-spark/shc) - Library for accessing HBase table as external data source or sink.
+* [Apache Phoenix](https://phoenix.apache.org/phoenix_spark.html) - Phoenix is an open source SQL skin for HBase. The phoenix-spark plugin extends Phoenix’s MapReduce support to allow Spark to load Phoenix tables as RDDs or DataFrames, and enables persisting them back to Phoenix.
+* [hbase-spark](https://github.com/apache/hbase/tree/master/hbase-spark) - The default hbase Spark library included in the Hbase distribution.
+* [Spark-SQL-on-HBase](https://github.com/Huawei-Spark/Spark-SQL-on-HBase) - Native, optimized access to HBase Data through Spark SQL/Dataframe Interfaces.
 
 ### Machine Learning Extension
 
