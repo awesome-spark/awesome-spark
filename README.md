@@ -103,7 +103,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Distributed Keras](https://github.com/cerndb/dist-keras) - Distributed deep learning framework with PySpark and Keras.
 * [ModelDB](https://mitdbg.github.io/modeldb) - A system to manage machine learning models for `spark.ml` and [`scikit-learn`](https://github.com/scikit-learn/scikit-learn).
 * [Sparkling Water](https://github.com/h2oai/sparkling-water) -  [H2O](http://www.h2o.ai/) interoperability layer.
-* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library.1
+* [BigDL](https://github.com/intel-analytics/BigDL) - Distributed Deep Learning library.
 * [MLeap](https://github.com/combust/mleap) - Execution engine and serialization format which supports deployment of `o.a.s.ml` models without dependency on `SparkSession`.
 
 ### Middleware
