@@ -121,8 +121,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Flintrock](https://github.com/nchammas/flintrock) - A command-line tool for launching Spark clusters on EC2.
 
 ### Natural Language Processing
-
 * [spark-corenlp](https://github.com/databricks/spark-corenlp) - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
+* [spark-nlp](https://github.com/JohnSnowLabs/spark-nlp) - Natural language processing library built on top of Apache Spark ML. 
 
 ### Streaming
 
