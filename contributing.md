@@ -9,3 +9,7 @@
 - New Links should be appended at the end of the relevant section.
 - Make sure that the new entry doesn't contain trailing whitespace.
 - Don't mention `Spark` in the description as it is implied.
+
+Adding non-free content
+
+Please note that we normally don't merge proposals that haven't been tested and approved by at least one team member. If you are an author, publisher or operator of a resource which is not freely available please consider providing us with a review copy of the resource (or equivalent depending on the type of the proposal).
