@@ -74,6 +74,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [ADAM](https://github.com/bigdatagenomics/adam) - Set of tools designed to analyse genomics data.
 * [Hail](https://github.com/hail-is/hail) - Genetic analysis framework.
+* [mmtf-pyspark](https://github.com/sbl-sdsc/mmtf-pyspark) - Distributed datamining and analysis of 3D biomacromolecular structures.
 
 ### GIS
 
