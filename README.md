@@ -166,7 +166,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Workshops
 
 * [AMP Camp](http://ampcamp.berkeley.edu) - Periodical training event organized by the [UC Berkeley AMPLab](https://amplab.cs.berkeley.edu/). A source of useful exercise and recorded workshops covering different tools from the [Berkeley Data Analytics Stack](https://amplab.cs.berkeley.edu/software/).
-* [MMTF Workshops](https://github.com/sbl-sdsc/mmtf-workshop-2018) - Workshops and hackathons organized by the [Structural Bioinformatics Lab](https://github.com/sbl-sdsc) at UC San Diego, San Diego Supercomputer Center. An in-depth resource for using [mmtf-pysparak](https://github.com/sbl-sdsc/mmtf-pyspark) for 3D structural analysis with many tutorials as Jupyter Notebooks.
+* [MMTF Workshops](https://github.com/sbl-sdsc/mmtf-workshop-2018) - Workshops and hackathons organized by the [Structural Bioinformatics Lab](https://github.com/sbl-sdsc) at UC San Diego, San Diego Supercomputer Center. An in-depth resource for using [mmtf-pyspark](https://github.com/sbl-sdsc/mmtf-pyspark) for 3D structural analysis with many tutorials as Jupyter Notebooks.
 ### Projects Using Spark
 
 * [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
