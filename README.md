@@ -141,6 +141,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Workflow Management
 
 * [Cromwell](https://github.com/broadinstitute/cromwell#spark-backend) <img src="https://img.shields.io/github/last-commit/broadinstitute/cromwell.svg"> - Workflow management system with [Spark backend](https://github.com/broadinstitute/cromwell#spark-backend).
+* [Schemer](https://github.com/indix/schemer) <img src="https://img.shields.io/github/last-commit/indix/schemer.svg"> - Schema registry for CSV, TSV, JSON, AVRO and Parquet schema. Supports schema inference and GraphQL API.
 
 ## Resources
 
