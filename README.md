@@ -26,6 +26,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
   - [Streaming](#streaming)
   - [Interfaces](#interfaces)
   - [Testing](#testing)
+  - [Web Archives](#web-archives)
   - [Workflow Management](#workflow-management)
 
 - [Resources](#resources)
@@ -137,6 +138,10 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
 * [spark-fast-tests](https://github.com/MrPowers/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/MrPowers/spark-fast-tests.svg"> - A lightweight and fast testing framework.
+
+### Web Archives
+
+* [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
 
 ### Workflow Management
 
