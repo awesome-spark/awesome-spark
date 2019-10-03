@@ -52,6 +52,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Notebooks and IDEs
 
 * [Apache Zeppelin](https://zeppelin.incubator.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/zeppelin.svg"> - Web-based notebook that enables interactive data analytics with plugable backends, integrated plotting, and extensive Spark support out-of-the-box.
+* [ML-Workspace](https://github.com/ml-tooling/ml-workspace) <img src="https://img.shields.io/github/last-commit/ml-tooling/ml-workspace.svg"> - All-in-one web IDE for machine learning and data science. The [Spark-flavor](https://github.com/ml-tooling/ml-workspace#spark-flavor) combines Jupyter, VS Code, Apache Zeppelin, and many other tools/libraries into one Docker image.
 * [Spark Notebook](https://github.com/andypetrella/spark-notebook) <img src="https://img.shields.io/github/last-commit/spark-notebook/spark-notebook.svg"> - Scalable and stable Scala and Spark focused notebook bridging the gap between JVM and Data Scientists (incl. extendable, typesafe and reactive charts).
 * [sparkmagic](https://github.com/jupyter-incubator/sparkmagic) <img src="https://img.shields.io/github/last-commit/jupyter-incubator/sparkmagic.svg"> - [Jupyter](https://jupyter.org/) magics and kernels for working with remote Spark clusters, for interactively working with remote Spark clusters through [Livy](https://github.com/cloudera/livy), in Jupyter notebooks.
 
