@@ -179,6 +179,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment.
+* [StreamSets Transformer](https://streamsets.com/products/transformer/) - Application for building and executing data pipelines graphically and exposing DataFrame/SQL functionality without requiring programming
 
 ### Blogs
 
