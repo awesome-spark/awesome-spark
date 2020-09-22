@@ -124,6 +124,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [pyspark-stubs](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark.
 * [Flintrock](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 * [Optimus](https://hioptimus.com)  Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
+* [Koalas](https://github.com/databricks/koalas) <img src="https://img.shields.io/github/last-commit/databricks/koalas.svg"> - Pandas DataFrame API on top of Apache Spark.
 
 ### Natural Language Processing
 * [spark-corenlp](https://github.com/databricks/spark-corenlp) <img src="https://img.shields.io/github/last-commit/databricks/spark-corenlp.svg"> - DataFrame wrapper for [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/).
