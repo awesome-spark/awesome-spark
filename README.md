@@ -15,6 +15,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
   - [Notebooks and IDEs](#notebooks-and-ides)
   - [General Purpose Libraries](#general-purpose-libraries)
   - [SQL Data Sources](#sql-data-sources)
+  - [Storage](#storage)
   - [Bioinformatics](#bioinformatics)
   - [GIS](#gis)
   - [Time Series Analytics](#time-series-analytics)
@@ -74,6 +75,10 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Spark Riak Connector](https://github.com/basho/spark-riak-connector) <img src="https://img.shields.io/github/last-commit/basho/spark-riak-connector.svg"> - Riak TS & Riak KV connector.
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
 * [OrientDB-Spark](https://github.com/orientechnologies/spark-orientdb) <img src="https://img.shields.io/github/last-commit/orientechnologies/spark-orientdb.svg"> - Official OrientDB connector.
+
+### Storage
+
+* [Delta Lake](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
 
 ### Bioinformatics
 
