@@ -124,6 +124,10 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Apache Toree](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
 * [Kyuubi](https://github.com/yaooqinn/kyuubi) <img src="https://img.shields.io/github/last-commit/yaooqinn/kyuubi.svg"> - Improved implementation of Thrift JDBC/ODBC Serve. 
 
+### Monitoring
+
+* [Data Mechanics Delight](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
+
 ### Utilities
 
 * [silex](https://github.com/willb/silex) <img src="https://img.shields.io/github/last-commit/willb/silex.svg"> - Collection of tools varying from ML extensions to additional RDD methods.
