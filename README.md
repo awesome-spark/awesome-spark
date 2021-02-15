@@ -61,7 +61,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### General Purpose Libraries
 
 * [Succinct](http://succinct.cs.berkeley.edu/) <img src="https://img.shields.io/github/last-commit/amplab/succinct.svg">- Support for efficient queries on compressed data.
-* [itachi](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings excellent and useful functions from various modern database management systems to Apache Spark in the way of Code Generation
+* [itachi](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings excellent and useful functions from various modern database management systems to Apache Spark in the way of Code Generation.
 
 
 ### SQL Data Sources
