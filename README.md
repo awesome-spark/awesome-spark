@@ -62,7 +62,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Succinct](http://succinct.cs.berkeley.edu/) <img src="https://img.shields.io/github/last-commit/amplab/succinct.svg">- Support for efficient queries on compressed data.
 * [itachi](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
-
+* [Apache DataFu](http://datafu.apache.org/docs/spark/getting-started.html) - An Apache library of general purpose functions and UDF's for Hadoop which has a Spark subproject.
 
 ### SQL Data Sources
 
