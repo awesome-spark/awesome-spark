@@ -62,6 +62,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 * [Succinct](http://succinct.cs.berkeley.edu/) <img src="https://img.shields.io/github/last-commit/amplab/succinct.svg">- Support for efficient queries on compressed data.
 * [itachi](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
+* [spark-daria](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+* [quinn](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
 * [Apache DataFu](http://datafu.apache.org/docs/spark/getting-started.html) - An Apache library of general purpose functions and UDF's for Hadoop which has a Spark subproject.
 
 ### SQL Data Sources
@@ -123,7 +125,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) <img src="https://img.shields.io/github/last-commit/spark-jobserver/spark-jobserver.svg"> - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
 * [Mist](https://github.com/Hydrospheredata/mist) <img src="https://img.shields.io/github/last-commit/Hydrospheredata/mist.svg"> - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services.
 * [Apache Toree](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
-* [Kyuubi](https://github.com/yaooqinn/kyuubi) <img src="https://img.shields.io/github/last-commit/yaooqinn/kyuubi.svg"> - Improved implementation of Thrift JDBC/ODBC Serve. 
+* [Kyuubi](https://github.com/yaooqinn/kyuubi) <img src="https://img.shields.io/github/last-commit/yaooqinn/kyuubi.svg"> - Improved implementation of Thrift JDBC/ODBC Server. 
 
 ### Monitoring
 
@@ -169,7 +171,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Books
 
-* [Learning Spark, Lightning-Fast Big Data Analysis](http://shop.oreilly.com/product/0636920028512.do) - Slightly outdated (Spark 1.3) introduction to Spark API. Good source of knowledge about basic concepts.
+* [Learning Spark, 2nd Edition](https://www.oreilly.com/library/view/learning-spark-2nd/9781492050032/) - Introduction to Spark API with Spark 3.0 covered. Good source of knowledge about basic concepts.
 * [Advanced Analytics with Spark](http://shop.oreilly.com/product/0636920035091.do) - Useful collection of Spark processing patterns. Accompanying GitHub repository: [sryza/aas](https://github.com/sryza/aas).
 * [Mastering Apache Spark](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/) - Interesting compilation of notes by [Jacek Laskowski](https://github.com/jaceklaskowski). Focused on different aspects of Spark internals.
 * [Spark Gotchas](https://github.com/awesome-spark/spark-gotchas) - Subjective compilation of tips, tricks and common programming mistakes.
