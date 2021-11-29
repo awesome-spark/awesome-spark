@@ -1,0 +1,20 @@
+name: misspell
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: misspell-fixer-action
+        uses: sobolevn/misspell-fixer-action@0.1.0
+        with:
+          options: '-rsvn .'
+      - name: check results
+        run: |
+          dev/check-diff.sh
