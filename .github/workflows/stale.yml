@@ -1,0 +1,25 @@
+name: 'Close stale issues and PRs'
+on:
+  schedule:
+    - cron: '42 0 * * 1,3,5'
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/stale@v4
+        with:
+          days-before-issue-stale: -1
+          days-before-pr-stale: 210
+          days-before-issue-close: -1
+          days-before-pr-close: 180
+          stale-pr-message: |
+            This PR is being marked stale because it hasn't been updated in a while
+            Typically, it means that none of the maintainers is familiar enough with
+            the proposed addition, to personally recommend it.
+
+            Please note, that proprietary resources, are less likely to be included.
+
+            To increase chances of the proposed addition being approved, please be sure
+            to provide enough information about the project, including but not limited to,
+            explanation why it is a good fit for this list.
