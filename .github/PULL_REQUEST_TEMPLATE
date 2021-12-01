@@ -1,0 +1,45 @@
+<!--
+Thanks for sending a pull request!
+
+Please make sure that you've read our contributing guide:
+https://github.com/awesome-spark/awesome-spark/blob/main/contributing.md
+
+Please make sure that the title of your PR reflects starts with one of the following:
+
+- `[ADD]` - for additions to Awesome Spark.
+- `[REMOVE]` - for deletions from Awesome Spark.
+- `[DEPRECATE]` - for deprecations.
+- `[MISC]` - for maintenance and fixes (typos, grammar).
+-->
+
+<!--
+Please provide general description of the project
+For License, if applicable, you can use trove classifiers https://pypi.org/classifiers/
+-->
+
+## Description
+
+- Name: <!-- name of the project to added or removed -->
+- URL:  <!--  optional, only for additions -->
+- License: <!--optional, only for additions -->
+
+## Why
+
+<!--
+Please describe why this resource should be added to or removed from Awesome Spark
+
+Valid reasons for removal include, but are not limited to:
+
+- Resource is no longer available.
+- Resource is no longer maintained.
+-->
+
+## Checklist
+
+<!--
+Please use this checklist for additions to Awesome Spark
+-->
+
+- [ ] Item hasn't been proposed yet (there is no open PR, it hasn't been rejected or removed).
+- [ ] Item is added at the on of the relevant section.
+- [ ] Description ends with period and doesn't contain trailing whitespace.
