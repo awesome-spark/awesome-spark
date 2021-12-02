@@ -80,7 +80,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Storage
 
 * [Delta Lake](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
-* [lakeFS](https://lakefs.io/) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Atomic versioned data layer.
+* [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Spark integration for the lakeFS atomic versioned storage layer.
 
 ### Bioinformatics
 
