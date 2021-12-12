@@ -43,3 +43,7 @@ Please use this checklist for additions to Awesome Spark
 - [ ] Item hasn't been proposed yet (there is no open PR, it hasn't been rejected or removed).
 - [ ] Item is added at the on of the relevant section.
 - [ ] Description ends with period and doesn't contain trailing whitespace.
+
+## Code of Conduct
+
+- [ ] I agree to follow Awesome Spark's [Code of Conduct](https://github.com/awesome-spark/awesome-spark/blob/main/CODE_OF_CONDUCT.md).
