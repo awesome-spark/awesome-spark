@@ -90,7 +90,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### GIS
 
 * [Magellan](https://github.com/harsha2010/magellan) <img src="https://img.shields.io/github/last-commit/harsha2010/magellan.svg"> - Geospatial analytics using Spark.
-* [GeoSpark](https://github.com/Sarwat/GeoSpark) <img src="https://img.shields.io/github/last-commit/Sarwat/GeoSpark.svg"> - Cluster computing system for processing large-scale spatial data.
+* [Apache Sedona](https://github.com/apache/incubator-sedona) <img src="https://img.shields.io/github/last-commit/apache/incubator-sedona.svg"> - Cluster computing system for processing large-scale spatial data.
 
 ### Time Series Analytics
 
