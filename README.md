@@ -127,7 +127,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [spark-jobserver](https://github.com/spark-jobserver/spark-jobserver) <img src="https://img.shields.io/github/last-commit/spark-jobserver/spark-jobserver.svg"> - Simple Spark as a Service which supports objects sharing using so called named objects. JVM only.
 * [Mist](https://github.com/Hydrospheredata/mist) <img src="https://img.shields.io/github/last-commit/Hydrospheredata/mist.svg"> - Service for exposing Spark analytical jobs and machine learning models as realtime, batch or reactive web services.
 * [Apache Toree](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
-* [Apache Kyuubi](https://github.com/apache/incubator-kyuubi) <img src="https://img.shields.io/github/last-commit/apache/incubator-kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
+* [Apache Kyuubi](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
 ### Monitoring
 
