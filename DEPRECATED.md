@@ -2,9 +2,6 @@
 
 This page contains items once included in Awesome Spark, but removed from the list for various reasons. While no longer recommended, these might be interesting for various of reasons.
 
-- [Packages](#packages)
-  - [SQL Data Sources](#sql-data-sources)
-
 ### Language Bindings
 
 * [Flambo](https://github.com/yieldbot/flambo) <img src="https://img.shields.io/github/last-commit/yieldbot/flambo.svg"> - Clojure DSL.
