@@ -8,44 +8,11 @@ _Apache Spark is an open-source cluster-computing framework. Originally develope
 
 Users of Apache Spark may choose between different the Python, R, Scala and Java programming languages to interface with the Apache Spark APIs.
 
-## Contents
-
-- [Packages](#packages)
-  - [Language Bindings](#language-bindings)
-  - [Notebooks and IDEs](#notebooks-and-ides)
-  - [General Purpose Libraries](#general-purpose-libraries)
-  - [SQL Data Sources](#sql-data-sources)
-  - [Storage](#storage)
-  - [Bioinformatics](#bioinformatics)
-  - [GIS](#gis)
-  - [Time Series Analytics](#time-series-analytics)
-  - [Graph Processing](#graph-processing)
-  - [Machine Learning Extension](#machine-learning-extension)
-  - [Middleware](#middleware)
-  - [Utilities](#utilities)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Streaming](#streaming)
-  - [Interfaces](#interfaces)
-  - [Testing](#testing)
-  - [Web Archives](#web-archives)
-  - [Workflow Management](#workflow-management)
-
-- [Resources](#resources)
-  - [Books](#books)
-  - [Papers](#papers)
-  - [MOOCS](#moocs)
-  - [Workshops](#workshops)
-  - [Projects Using Spark](#projects-using-spark)
-  - [Docker Images](#docker-images)
-  - [Miscellaneous](#miscellaneous)
-
-
 ## Packages
 
 ### Language Bindings
 
 * [Kotlin for Apache Spark](https://github.com/Kotlin/kotlin-spark-api) <img src="https://img.shields.io/github/last-commit/Kotlin/kotlin-spark-api.svg"> - Kotlin API bindings and extensions.
-* [Flambo](https://github.com/yieldbot/flambo) <img src="https://img.shields.io/github/last-commit/yieldbot/flambo.svg"> - Clojure DSL.
 * [Mobius](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
 * [.NET for Apache Spark](https://github.com/dotnet/spark) <img src="https://img.shields.io/github/last-commit/dotnet/spark.svg"> - .NET bindings.
 * [sparklyr](https://github.com/rstudio/sparklyr) <img src="https://img.shields.io/github/last-commit/rstudio/sparklyr.svg"> - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
