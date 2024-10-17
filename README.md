@@ -30,8 +30,8 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### General Purpose Libraries
 
 * [itachi](https://github.com/yaooqinn/itachi) <img src="https://img.shields.io/github/last-commit/yaooqinn/itachi.svg"> - A library that brings useful functions from modern database management systems to Apache Spark.
-* [spark-daria](https://github.com/mrpowers/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
-* [quinn](https://github.com/mrpowers/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
+* [spark-daria](https://github.com/mrpowers-io/spark-daria) <img src="https://img.shields.io/github/last-commit/mrpowers/spark-daria.svg"> - A Scala library with essential Spark functions and extensions to make you more productive.
+* [quinn](https://github.com/mrpowers-io/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers/quinn.svg"> - A native PySpark implementation of spark-daria.
 * [Apache DataFu](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 * [Joblib Apache Spark Backend](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
 
