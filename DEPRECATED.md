@@ -4,6 +4,7 @@ This page contains items once included in Awesome Spark, but removed from the li
 
 ### Language Bindings
 
+* [Mobius](https://github.com/Microsoft/Mobius) <img src="https://img.shields.io/github/last-commit/Microsoft/Mobius.svg"> - C# bindings (Deprecated in favor of .NET for Apache Spark).
 * [Flambo](https://github.com/yieldbot/flambo) <img src="https://img.shields.io/github/last-commit/yieldbot/flambo.svg"> - Clojure DSL.
 
 ### Notebooks and IDEs
@@ -50,6 +51,7 @@ This page contains items once included in Awesome Spark, but removed from the li
 ### Utilities
 
 * [silex](https://github.com/willb/silex) <img src="https://img.shields.io/github/last-commit/willb/silex.svg"> - Collection of tools varying from ML extensions to additional RDD methods.
+* [pyspark-stubs](https://github.com/zero323/pyspark-stubs) <img src="https://img.shields.io/github/last-commit/zero323/pyspark-stubs.svg"> - Static type annotations for PySpark (obsolete since Spark 3.1. See [SPARK-32681](https://issues.apache.org/jira/browse/SPARK-32681)).
 
 ### Natural Language Processing
 
