@@ -92,6 +92,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [sparkly](https://github.com/Tubular/sparkly) <img src="https://img.shields.io/github/last-commit/Tubular/sparkly.svg"> - Helpers & syntactic sugar for PySpark.
 * [Flintrock](https://github.com/nchammas/flintrock) <img src="https://img.shields.io/github/last-commit/nchammas/flintrock.svg"> - A command-line tool for launching Spark clusters on EC2.
 * [Optimus](https://github.com/ironmussa/Optimus/) <img src="https://img.shields.io/github/last-commit/ironmussa/Optimus.svg"> - Data Cleansing and Exploration utilities with the goal of simplifying data cleaning.
+* [DataComPy](https://github.com/capitalone/datacompy) <img src="https://img.shields.io/github/last-commit/capitalone/datacompy.svg"> - A Python library that facilitates the comparison of two DataFrames. The library goes beyond basic equality checks by providing detailed insights into discrepancies at both row and column levels.
 
 ### Natural Language Processing
 
