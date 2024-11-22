@@ -83,6 +83,12 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Apache Toree](https://github.com/apache/incubator-toree) <img src="https://img.shields.io/github/last-commit/apache/incubator-toree.svg"> - IPython protocol based middleware for interactive applications.
 * [Apache Kyuubi](https://github.com/apache/kyuubi) <img src="https://img.shields.io/github/last-commit/apache/kyuubi.svg"> - A distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark.
 
+### Acceleration
+
+* [Apache Gluten](https://github.com/apache/incubator-gluten) <img src="https://img.shields.io/github/last-commit/apache/incubator-gluten.svg"> - A middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+* [Apache DataFusion Comet](https://github.com/apache/datafusion-comet) <img src="https://img.shields.io/github/last-commit/apache/datafusion-comet.svg"> - Apache DataFusion Comet Spark Accelerator.
+* [Blaze](https://github.com/kwai/blaze) <img src="https://img.shields.io/github/last-commit/kwai/blaze.svg"> - Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+
 ### Monitoring
 
 * [Data Mechanics Delight](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
