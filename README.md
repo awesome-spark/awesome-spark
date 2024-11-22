@@ -86,6 +86,8 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Monitoring
 
 * [Data Mechanics Delight](https://github.com/datamechanics/delight) <img src="https://img.shields.io/github/last-commit/datamechanics/delight.svg"> - Cross-platform monitoring tool (Spark UI / Spark History Server replacement).
+* [Spark Measure](https://github.com/LucaCanali/sparkMeasure) <img src="https://img.shields.io/github/last-commit/LucaCanali/sparkMeasure.svg"> - A tool and library designed for efficient analysis and troubleshooting of Apache Spark jobs.
+* [CERN Spark Plugins](https://github.com/cerndb/SparkPlugins) <img src="https://img.shields.io/github/last-commit/cerndb/SparkPlugins.svg"> - extend Apache Spark with custom metrics and executors' startup actions.
 
 ### Utilities
 
