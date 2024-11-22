@@ -41,6 +41,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [Spark XML](https://github.com/databricks/spark-xml) <img src="https://img.shields.io/github/last-commit/databricks/spark-xml.svg"> - XML parser and writer.
 * [Spark Cassandra Connector](https://github.com/datastax/spark-cassandra-connector) <img src="https://img.shields.io/github/last-commit/datastax/spark-cassandra-connector.svg"> - Cassandra support including data source and API and support for arbitrary queries.
 * [Mongo-Spark](https://github.com/mongodb/mongo-spark) <img src="https://img.shields.io/github/last-commit/mongodb/mongo-spark.svg"> - Official MongoDB connector.
+* [spark-dialect-extension](https://github.com/MobileTeleSystems/spark-dialect-extension) <img src="https://img.shields.io/github/last-commit/MobileTeleSystems/spark-dialect-extension.svg"> - custom JDBC dialects implementations with type mapping improvements.
 
 ### Storage
 
