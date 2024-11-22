@@ -117,6 +117,12 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [spark-fast-tests](https://github.com/mrpowers-io/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests.svg"> - A lightweight and fast testing framework.
 * [chispa](https://github.com/MrPowers/chispa) <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
 
+### External shuffle
+
+* [Apache Celeborn](https://github.com/apache/celeborn) <img src="https://img.shields.io/github/last-commit/apache/celeborn.svg"> - An elastic and high-performance service for shuffle and spilled data. 
+* [Apache Uniffle](https://github.com/apache/incubator-uniffle) <img src="https://img.shields.io/github/last-commit/apache/incubator-uniffle.svg"> - A high performance, general purpose Remote Shuffle Service. 
+* [Spark S3 Shuffle](https://github.com/IBM/spark-s3-shuffle) <img src="https://img.shields.io/github/last-commit/IBM/spark-s3-shuffle.svg"> - A S3 Shuffle plugin for Apache Spark to enable elastic scaling for generic Spark workloads.
+
 ### Web Archives
 
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
