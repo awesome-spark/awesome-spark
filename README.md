@@ -111,6 +111,13 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [deequ](https://github.com/awslabs/deequ) <img src="https://img.shields.io/github/last-commit/awslabs/deequ.svg"> - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 * [python-deequ](https://github.com/awslabs/python-deequ) <img src="https://img.shields.io/github/last-commit/awslabs/python-deequ.svg"> - Python API for Deequ.
 
+### Lineage
+
+* [OpenLineage Spark integration](https://openlineage.io/docs/integrations/spark/) <img src="https://img.shields.io/github/last-commit/OpenLineage/OpenLineage.svg"> - Spark integration with Open Standard for lineage metadata collection.
+* [DataHub Spark Agent](https://datahubproject.io/docs/metadata-integration/java/acryl-spark-lineage) <img src="https://img.shields.io/github/last-commit/datahub-project/datahub.svg"> - DataHub ingestion agent for Spark.
+* [Spline Spark Agent](https://github.com/AbsaOSS/spline-spark-agent) <img src="https://img.shields.io/github/last-commit/AbsaOSS/spline-spark-agent.svg"> - Spline agent for Apache Spark.
+* [OpenMetadata Spark Agent](https://docs.open-metadata.org/latest/connectors/ingestion/lineage/spark-lineage) <img src="https://img.shields.io/github/last-commit/open-metadata/openmetadata-spark-agent.svg"> - OpenMetadata ingestion agent for Spark.
+
 ### Testing
 
 * [spark-testing-base](https://github.com/holdenk/spark-testing-base) <img src="https://img.shields.io/github/last-commit/holdenk/spark-testing-base.svg"> - Collection of base test classes.
