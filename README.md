@@ -45,9 +45,10 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 ### Storage
 
 * [Delta Lake](https://github.com/delta-io/delta) <img src="https://img.shields.io/github/last-commit/delta-io/delta.svg"> - Storage layer with ACID transactions.
-* [Apache Hudi](https://github.com/apache/hudi) <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
-* [Apache Iceberg](https://github.com/apache/iceberg) <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data..
+* [Apache Hudi](https://github.com/apache/hudi) <img src="https://img.shields.io/github/last-commit/apache/hudi.svg"> - Upserts, Deletes And Incremental Processing on Big Data.
+* [Apache Iceberg](https://github.com/apache/iceberg) <img src="https://img.shields.io/github/last-commit/apache/iceberg.svg"> - Upserts, Deletes And Incremental Processing on Big Data.
 * [lakeFS](https://docs.lakefs.io/integrations/spark.html) <img src="https://img.shields.io/github/last-commit/treeverse/lakefs.svg"> - Integration with the lakeFS atomic versioned storage layer.
+* [Qbeast](https://github.com/Qbeast-io/qbeast-spark) <img src="https://img.shields.io/github/last-commit/Qbeast-io/qbeast-spark.svg"> - DataSource enabling multi-dimensional indexing and efficient data sampling.
 
 ### Bioinformatics
 
