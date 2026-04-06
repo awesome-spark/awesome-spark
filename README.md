@@ -8,6 +8,7 @@ _Apache Spark is an open-source cluster-computing framework. Originally develope
 
 Users of Apache Spark may choose between different the Python, R, Scala and Java programming languages to interface with the Apache Spark APIs.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Apache Spark data pipeline orchestration, automated workflow management, and multi-agent coordination. MIT licensed.
 ## Packages
 
 ### Language Bindings
