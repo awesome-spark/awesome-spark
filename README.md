@@ -33,6 +33,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [quinn](https://github.com/mrpowers-io/quinn) <img src="https://img.shields.io/github/last-commit/mrpowers-io/quinn.svg"> - A native PySpark implementation of spark-daria.
 * [Apache DataFu](https://github.com/apache/datafu/tree/master/datafu-spark) <img src="https://img.shields.io/github/last-commit/apache/datafu.svg"> - A library of general purpose functions and UDF's.
 * [Joblib Apache Spark Backend](https://github.com/joblib/joblib-spark) <img src="https://img.shields.io/github/last-commit/joblib/joblib-spark.svg"> - [`joblib`](https://github.com/joblib/joblib) backend for running tasks on Spark clusters.
+* [sparkling](https://github.com/andy327/sparkling) <img src="https://img.shields.io/github/last-commit/andy327/sparkling.svg"> - A typed Scala DSL for Apache Spark DataFrames with composable builders for grouping, streaming group operations, and window functions.
 
 ### SQL Data Sources
 
