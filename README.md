@@ -152,6 +152,7 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 ### Projects Using Spark
 
+* [AI-Recommendation-System](https://github.com/pavanbadempet/AI-Recommendation-System) - Real-time AI media recommendation engine powered by Databricks Serverless PySpark Delta Lake Medallion pipelines, SASRec transformers, and 10-shard pgvector serving.
 * [Oryx 2](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
 * [Photon ML](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
