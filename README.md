@@ -117,6 +117,10 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 * [spark-fast-tests](https://github.com/mrpowers-io/spark-fast-tests) <img src="https://img.shields.io/github/last-commit/mrpowers-io/spark-fast-tests.svg"> - A lightweight and fast testing framework.
 * [chispa](https://github.com/MrPowers/chispa) <img src="https://img.shields.io/github/last-commit/MrPowers/chispa.svg"> - PySpark test helpers with beautiful error messages.
 
+### Benchmarking
+
+* [HiBench Next](https://github.com/mgarralda/HiBench-Next) <img src="https://img.shields.io/github/last-commit/mgarralda/HiBench-Next.svg"> - Reproducible benchmarking suite featuring 24 Scala/PySpark workloads, Web UI, REST API, and CLI.
+
 ### Web Archives
 
 * [Archives Unleashed Toolkit](https://github.com/archivesunleashed/aut) <img src="https://img.shields.io/github/last-commit/archivesunleashed/aut.svg"> -  Open-source toolkit for analyzing web archives.
